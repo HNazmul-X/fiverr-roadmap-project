@@ -1,0 +1,160 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+button {
+    border: none;
+    padding: 10px;
+}
+
+[class*="Blue__Button__"] {
+    border: #736ae9 2px solid;
+    padding: 10px 20px;
+}
+
+.blue-map-wrapper {
+    width: 1366px;
+    height: 300px;
+    position: relative;
+}
+
+.blue-map-wrapper [class*="Blue__Button__"] {
+    position: absolute;
+}
+
+.blue-map-wrapper [class*="Blue__Button__"].button__1 {
+    width: 98px;
+    height: 54px;
+    left: 3px;
+    top: 25px;
+
+    background: #e9e7fd;
+    border: 1px solid #5f59f7;
+    box-sizing: border-box;
+    border-radius: 11px;
+}
+
+.blue-map-wrapper [class*="Blue__Button__"].button__2 {
+    position: absolute;
+    width: 96px;
+    height: 145px;
+    left: 5px;
+    top: 119px;
+
+    background: #e9e7fd;
+    border: 1px solid #5f59f7;
+    box-sizing: border-box;
+    border-radius: 11px;
+}
+
+.blue-map-wrapper [class*="Blue__Button__"].button__3 {
+    position: absolute;
+    width: 112px;
+    height: 55px;
+    left: 110px;
+    top: 25px;
+
+    background: #ffffff;
+    border: 1px solid #5f59f7;
+    box-sizing: border-box;
+    border-radius: 11px;
+}
+
+.blue-map-wrapper [class*="Blue__Button__"].button__4 {
+    position: absolute;
+    width: 112px;
+    height: 55px;
+    left: 280px;
+    top: 25px;
+
+    background: #ffffff;
+    border: 1px solid #5f59f7;
+    box-sizing: border-box;
+    border-radius: 11px;
+}
+
+.blue-map-wrapper [class*="Blue__Button__"].button__5 {
+    position: absolute;
+    width: 182px;
+    height: 53px;
+    left: 110px;
+    top: 125px;
+
+    background: #ffffff;
+    border: 1px solid #5f59f7;
+    box-sizing: border-box;
+    border-radius: 11px;
+}
+
+.blue-map-wrapper [class*="Blue__Button__"].button__6 {
+    position: absolute;
+    width: 146px;
+    height: 53px;
+    left: 336px;
+    top: 121px;
+
+    background: #ffffff;
+    border: 1px solid #5f59f7;
+    box-sizing: border-box;
+    border-radius: 11px;
+}
+
+.blue-map-wrapper [class*="Blue__Button__"].button__7 {
+    position: absolute;
+    width: 147px;
+    height: 53px;
+    left: 110px;
+    top: 209px;
+
+    background: #ffffff;
+    border: 1px solid #5f59f7;
+    box-sizing: border-box;
+    border-radius: 11px;
+}
+
+.blue-map-wrapper [class*="Blue__Button__"].button__8 {
+    position: absolute;
+    width: 193px;
+    height: 53px;
+    left: 530px;
+    top: 70px;
+
+    background: #ffffff;
+    border: 1px solid #5f59f7;
+    box-sizing: border-box;
+    border-radius: 11px;
+}
+
+.blue-map-wrapper [class*="Blue__Button__"].button__9 {
+    background: #4d42e3;
+    left: 900px;
+    top: 90px;
+}
+
+.blue-map-wrapper [class*="Blue__Button__"].button__10 {
+    background: #493ee2;
+    left: 1000px;
+    top: 100px;
+}
+
+.blue-map-wrapper [class*="Blue__Button__"].button__11 {
+    background: #4539e2;
+    left: 1100px;
+    top: 110px;
+}
+
+.blue-map-wrapper [class*="Blue__Button__"].button__12 {
+    background: #4135e1;
+    left: 1200px;
+    top: 120px;
+}
+
+.blue-map-wrapper [class*="Blue__Button__"].button__13 {
+    background: #3d30e0;
+    left: 1300px;
+    top: 130px;
+}
+/*# sourceMappingURL=style.css.map */
